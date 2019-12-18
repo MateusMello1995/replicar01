@@ -2,19 +2,17 @@
     <string name="app_name">replicar</string>
 
     <string-array name="language">
-        <item>Language Prefect</item>
+        <item>Idioma</item>
         <item>Português</item>
         <item>English</item>
     </string-array>
 
     <string-array name="genero">
-       <item>Gênero</item>
-       <item>Masculino</item>
-       <item>Feminino</item>
-       <item>Trans</item>
+        <item>Gênero</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+        <item>Trans</item>
     </string-array>
-
-
 
 
 </resources>
