@@ -37,14 +37,19 @@ public class resultado extends AppCompatActivity {
             //busca o campo na activity e adiciona o texto vindo de outra tela a ele
             nomeCampo = findViewById(R.id.textViewNome);
             nomeCampo.setText(nome);
+
             emailCampo = findViewById(R.id.textViewEmail);
             emailCampo.setText(email);
+
             dataCampo = findViewById(R.id.textViewData);
             dataCampo.setText(data);
+
             telefoneCampo = findViewById(R.id.textViewTelefone);
             telefoneCampo.setText(telefone);
+
             mensagemCampo = findViewById(R.id.textViewMensagem);
             mensagemCampo.setText(mensagem);
+
             senhaCampo = findViewById(R.id.textViewSenha);
             senhaCampo.setText(senha);
 
